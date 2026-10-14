@@ -1,0 +1,12 @@
+{
+  "_comment": "Gzipped First Load JS per route, in kB. Measured at Week 6 plus ~8% headroom; tighten as the app gets leaner.",
+  "defaultRoute": 120,
+  "routes": {
+    "/": 113,
+    "/products/[slug]": 128,
+    "/checkout": 123,
+    "/offline": 103,
+    "/_not-found": 94
+  },
+  "lazy3dChunkGzipKb": 250
+}

@@ -1,0 +1,47 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# storybook
+/storybook-static
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# MSW generated service worker (regenerated via `npm run msw:init`)
+# kept out of VCS noise but required at runtime, see README
+
+# Generated at build time by scripts/generate-sw.mjs (prebuild)
+/public/sw.js
+
+# Lighthouse CI output
+/.lighthouseci

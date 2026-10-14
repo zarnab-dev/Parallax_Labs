@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "p001",
+    "slug": "p001-pro-running-shoe",
+    "title": "Pro Running Shoe",
+    "description": "Pro Running Shoe designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 57,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p001-pro-running-shoe-0.svg",
+      "/images/products/p001-pro-running-shoe-1.svg",
+      "/images/products/p001-pro-running-shoe-2.svg"
+    ],
+    "rating": 4.3,
+    "reviewCount": 22,
+    "stock": 54,
+    "variants": [
+      {
+        "id": "p001-v1",
+        "label": "Size 7",
+        "stock": 7
+      },
+      {
+        "id": "p001-v2",
+        "label": "Size 8",
+        "stock": 18
+      },
+      {
+        "id": "p001-v3",
+        "label": "Size 9",
+        "stock": 29
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p002",
+    "slug": "p002-everyday-trail-sneaker",
+    "title": "Everyday Trail Sneaker",
+    "description": "Everyday Trail Sneaker designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 94,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p002-everyday-trail-sneaker-0.svg",
+      "/images/products/p002-everyday-trail-sneaker-1.svg",
+      "/images/products/p002-everyday-trail-sneaker-2.svg"
+    ],
+    "rating": 3.6,
+    "reviewCount": 39,
+    "stock": 82,
+    "variants": [
+      {
+        "id": "p002-v1",
+        "label": "Size 7",
+        "stock": 14
+      },
+      {
+        "id": "p002-v2",
+        "label": "Size 8",
+        "stock": 25
+      },
+      {
+        "id": "p002-v3",
+        "label": "Size 9",
+        "stock": 36
+      },
+      {
+        "id": "p002-v4",
+        "label": "Size 10",
+        "stock": 7
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p003",
+    "slug": "p003-lightweight-court-trainer",
+    "title": "Lightweight Court Trainer",
+    "description": "Lightweight Court Trainer designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 131,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p003-lightweight-court-trainer-0.svg",
+      "/images/products/p003-lightweight-court-trainer-1.svg",
+      "/images/products/p003-lightweight-court-trainer-2.svg"
+    ],
+    "rating": 4.9,
+    "reviewCount": 56,
+    "stock": 53,
+    "variants": [
+      {
+        "id": "p003-v1",
+        "label": "Size 7",
+        "stock": 21
+      },
+      {
+        "id": "p003-v2",
+        "label": "Size 8",
+        "stock": 32
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p004",
+    "slug": "p004-modern-hiking-boot",
+    "title": "Modern Hiking Boot",
+    "description": "Modern Hiking Boot designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 168,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p004-modern-hiking-boot-0.svg",
+      "/images/products/p004-modern-hiking-boot-1.svg",
+      "/images/products/p004-modern-hiking-boot-2.svg"
+    ],
+    "rating": 4.2,
+    "reviewCount": 73,
+    "stock": 77,
+    "variants": [
+      {
+        "id": "p004-v1",
+        "label": "Size 7",
+        "stock": 28
+      },
+      {
+        "id": "p004-v2",
+        "label": "Size 8",
+        "stock": 39
+      },
+      {
+        "id": "p004-v3",
+        "label": "Size 9",
+        "stock": 10
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p005",
+    "slug": "p005-all-weather-canvas-slip-on",
+    "title": "All-Weather Canvas Slip-On",
+    "description": "All-Weather Canvas Slip-On designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 25,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p005-all-weather-canvas-slip-on-0.svg",
+      "/images/products/p005-all-weather-canvas-slip-on-1.svg",
+      "/images/products/p005-all-weather-canvas-slip-on-2.svg"
+    ],
+    "rating": 3.5,
+    "reviewCount": 90,
+    "stock": 86,
+    "variants": [
+      {
+        "id": "p005-v1",
+        "label": "Size 7",
+        "stock": 35
+      },
+      {
+        "id": "p005-v2",
+        "label": "Size 8",
+        "stock": 6
+      },
+      {
+        "id": "p005-v3",
+        "label": "Size 9",
+        "stock": 17
+      },
+      {
+        "id": "p005-v4",
+        "label": "Size 10",
+        "stock": 28
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p006",
+    "slug": "p006-pro-trail-runner",
+    "title": "Pro Trail Runner",
+    "description": "Pro Trail Runner designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 62,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p006-pro-trail-runner-0.svg",
+      "/images/products/p006-pro-trail-runner-1.svg",
+      "/images/products/p006-pro-trail-runner-2.svg"
+    ],
+    "rating": 4.8,
+    "reviewCount": 107,
+    "stock": 15,
+    "variants": [
+      {
+        "id": "p006-v1",
+        "label": "Size 7",
+        "stock": 2
+      },
+      {
+        "id": "p006-v2",
+        "label": "Size 8",
+        "stock": 13
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p007",
+    "slug": "p007-everyday-studio-shoe",
+    "title": "Everyday Studio Shoe",
+    "description": "Everyday Studio Shoe designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 99,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p007-everyday-studio-shoe-0.svg",
+      "/images/products/p007-everyday-studio-shoe-1.svg",
+      "/images/products/p007-everyday-studio-shoe-2.svg"
+    ],
+    "rating": 4.1,
+    "reviewCount": 124,
+    "stock": 60,
+    "variants": [
+      {
+        "id": "p007-v1",
+        "label": "Size 7",
+        "stock": 9
+      },
+      {
+        "id": "p007-v2",
+        "label": "Size 8",
+        "stock": 20
+      },
+      {
+        "id": "p007-v3",
+        "label": "Size 9",
+        "stock": 31
+      }
+    ],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p008",
+    "slug": "p008-lightweight-winter-boot",
+    "title": "Lightweight Winter Boot",
+    "description": "Lightweight Winter Boot designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our footwear lineup.",
+    "price": 136,
+    "currency": "USD",
+    "category": "Footwear",
+    "tags": [
+      "footwear",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p008-lightweight-winter-boot-0.svg",
+      "/images/products/p008-lightweight-winter-boot-1.svg",
+      "/images/products/p008-lightweight-winter-boot-2.svg"
+    ],
+    "rating": 3.4,
+    "reviewCount": 141,
+    "stock": 90,
+    "variants": [
+      {
+        "id": "p008-v1",
+        "label": "Size 7",
+        "stock": 16
+      },
+      {
+        "id": "p008-v2",
+        "label": "Size 8",
+        "stock": 27
+      },
+      {
+        "id": "p008-v3",
+        "label": "Size 9",
+        "stock": 38
+      },
+      {
+        "id": "p008-v4",
+        "label": "Size 10",
+        "stock": 9
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p009",
+    "slug": "p009-all-weather-merino-hoodie",
+    "title": "All-Weather Merino Hoodie",
+    "description": "All-Weather Merino Hoodie designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 173,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p009-all-weather-merino-hoodie-0.svg",
+      "/images/products/p009-all-weather-merino-hoodie-1.svg",
+      "/images/products/p009-all-weather-merino-hoodie-2.svg"
+    ],
+    "rating": 4.7,
+    "reviewCount": 158,
+    "stock": 57,
+    "variants": [
+      {
+        "id": "p009-v1",
+        "label": "XS",
+        "stock": 23
+      },
+      {
+        "id": "p009-v2",
+        "label": "S",
+        "stock": 34
+      }
+    ],
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p010",
+    "slug": "p010-pro-performance-tee",
+    "title": "Pro Performance Tee",
+    "description": "Pro Performance Tee designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 30,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p010-pro-performance-tee-0.svg",
+      "/images/products/p010-pro-performance-tee-1.svg",
+      "/images/products/p010-pro-performance-tee-2.svg"
+    ],
+    "rating": 4,
+    "reviewCount": 175,
+    "stock": 43,
+    "variants": [
+      {
+        "id": "p010-v1",
+        "label": "XS",
+        "stock": 30
+      },
+      {
+        "id": "p010-v2",
+        "label": "S",
+        "stock": 1
+      },
+      {
+        "id": "p010-v3",
+        "label": "M",
+        "stock": 12
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p011",
+    "slug": "p011-everyday-insulated-jacket",
+    "title": "Everyday Insulated Jacket",
+    "description": "Everyday Insulated Jacket designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 67,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p011-everyday-insulated-jacket-0.svg",
+      "/images/products/p011-everyday-insulated-jacket-1.svg",
+      "/images/products/p011-everyday-insulated-jacket-2.svg"
+    ],
+    "rating": 3.3,
+    "reviewCount": 192,
+    "stock": 94,
+    "variants": [
+      {
+        "id": "p011-v1",
+        "label": "XS",
+        "stock": 37
+      },
+      {
+        "id": "p011-v2",
+        "label": "S",
+        "stock": 8
+      },
+      {
+        "id": "p011-v3",
+        "label": "M",
+        "stock": 19
+      },
+      {
+        "id": "p011-v4",
+        "label": "L",
+        "stock": 30
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p012",
+    "slug": "p012-lightweight-cargo-pants",
+    "title": "Lightweight Cargo Pants",
+    "description": "Lightweight Cargo Pants designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 104,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p012-lightweight-cargo-pants-0.svg",
+      "/images/products/p012-lightweight-cargo-pants-1.svg",
+      "/images/products/p012-lightweight-cargo-pants-2.svg"
+    ],
+    "rating": 4.6,
+    "reviewCount": 209,
+    "stock": 19,
+    "variants": [
+      {
+        "id": "p012-v1",
+        "label": "XS",
+        "stock": 4
+      },
+      {
+        "id": "p012-v2",
+        "label": "S",
+        "stock": 15
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p013",
+    "slug": "p013-modern-wool-sweater",
+    "title": "Modern Wool Sweater",
+    "description": "Modern Wool Sweater designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 141,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p013-modern-wool-sweater-0.svg",
+      "/images/products/p013-modern-wool-sweater-1.svg",
+      "/images/products/p013-modern-wool-sweater-2.svg"
+    ],
+    "rating": 3.9,
+    "reviewCount": 226,
+    "stock": 66,
+    "variants": [
+      {
+        "id": "p013-v1",
+        "label": "XS",
+        "stock": 11
+      },
+      {
+        "id": "p013-v2",
+        "label": "S",
+        "stock": 22
+      },
+      {
+        "id": "p013-v3",
+        "label": "M",
+        "stock": 33
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p014",
+    "slug": "p014-all-weather-windbreaker",
+    "title": "All-Weather Windbreaker",
+    "description": "All-Weather Windbreaker designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 178,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p014-all-weather-windbreaker-0.svg",
+      "/images/products/p014-all-weather-windbreaker-1.svg",
+      "/images/products/p014-all-weather-windbreaker-2.svg"
+    ],
+    "rating": 3.2,
+    "reviewCount": 243,
+    "stock": 58,
+    "variants": [
+      {
+        "id": "p014-v1",
+        "label": "XS",
+        "stock": 18
+      },
+      {
+        "id": "p014-v2",
+        "label": "S",
+        "stock": 29
+      },
+      {
+        "id": "p014-v3",
+        "label": "M",
+        "stock": 0
+      },
+      {
+        "id": "p014-v4",
+        "label": "L",
+        "stock": 11
+      }
+    ],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p015",
+    "slug": "p015-pro-denim-jacket",
+    "title": "Pro Denim Jacket",
+    "description": "Pro Denim Jacket designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 35,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p015-pro-denim-jacket-0.svg",
+      "/images/products/p015-pro-denim-jacket-1.svg",
+      "/images/products/p015-pro-denim-jacket-2.svg"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "stock": 61,
+    "variants": [
+      {
+        "id": "p015-v1",
+        "label": "XS",
+        "stock": 25
+      },
+      {
+        "id": "p015-v2",
+        "label": "S",
+        "stock": 36
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p016",
+    "slug": "p016-everyday-thermal-base-layer",
+    "title": "Everyday Thermal Base Layer",
+    "description": "Everyday Thermal Base Layer designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our apparel lineup.",
+    "price": 72,
+    "currency": "USD",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p016-everyday-thermal-base-layer-0.svg",
+      "/images/products/p016-everyday-thermal-base-layer-1.svg",
+      "/images/products/p016-everyday-thermal-base-layer-2.svg"
+    ],
+    "rating": 3.8,
+    "reviewCount": 37,
+    "stock": 49,
+    "variants": [
+      {
+        "id": "p016-v1",
+        "label": "XS",
+        "stock": 32
+      },
+      {
+        "id": "p016-v2",
+        "label": "S",
+        "stock": 3
+      },
+      {
+        "id": "p016-v3",
+        "label": "M",
+        "stock": 14
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p017",
+    "slug": "p017-modern-leather-wallet",
+    "title": "Modern Leather Wallet",
+    "description": "Modern Leather Wallet designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 109,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p017-modern-leather-wallet-0.svg",
+      "/images/products/p017-modern-leather-wallet-1.svg",
+      "/images/products/p017-modern-leather-wallet-2.svg"
+    ],
+    "rating": 3.1,
+    "reviewCount": 54,
+    "stock": 102,
+    "variants": [
+      {
+        "id": "p017-v1",
+        "label": "Standard",
+        "stock": 39
+      },
+      {
+        "id": "p017-v2",
+        "label": "Compact",
+        "stock": 10
+      },
+      {
+        "id": "p017-v3",
+        "label": "Large",
+        "stock": 21
+      },
+      {
+        "id": "p017-v4",
+        "label": "Standard",
+        "stock": 32
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p018",
+    "slug": "p018-all-weather-canvas-tote",
+    "title": "All-Weather Canvas Tote",
+    "description": "All-Weather Canvas Tote designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 146,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p018-all-weather-canvas-tote-0.svg",
+      "/images/products/p018-all-weather-canvas-tote-1.svg",
+      "/images/products/p018-all-weather-canvas-tote-2.svg"
+    ],
+    "rating": 4.4,
+    "reviewCount": 71,
+    "stock": 23,
+    "variants": [
+      {
+        "id": "p018-v1",
+        "label": "Standard",
+        "stock": 6
+      },
+      {
+        "id": "p018-v2",
+        "label": "Compact",
+        "stock": 17
+      }
+    ],
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p019",
+    "slug": "p019-pro-wool-beanie",
+    "title": "Pro Wool Beanie",
+    "description": "Pro Wool Beanie designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 183,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p019-pro-wool-beanie-0.svg",
+      "/images/products/p019-pro-wool-beanie-1.svg",
+      "/images/products/p019-pro-wool-beanie-2.svg"
+    ],
+    "rating": 3.7,
+    "reviewCount": 88,
+    "stock": 72,
+    "variants": [
+      {
+        "id": "p019-v1",
+        "label": "Standard",
+        "stock": 13
+      },
+      {
+        "id": "p019-v2",
+        "label": "Compact",
+        "stock": 24
+      },
+      {
+        "id": "p019-v3",
+        "label": "Large",
+        "stock": 35
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p020",
+    "slug": "p020-everyday-polarized-sunglasses",
+    "title": "Everyday Polarized Sunglasses",
+    "description": "Everyday Polarized Sunglasses designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 40,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p020-everyday-polarized-sunglasses-0.svg",
+      "/images/products/p020-everyday-polarized-sunglasses-1.svg",
+      "/images/products/p020-everyday-polarized-sunglasses-2.svg"
+    ],
+    "rating": 3,
+    "reviewCount": 105,
+    "stock": 66,
+    "variants": [
+      {
+        "id": "p020-v1",
+        "label": "Standard",
+        "stock": 20
+      },
+      {
+        "id": "p020-v2",
+        "label": "Compact",
+        "stock": 31
+      },
+      {
+        "id": "p020-v3",
+        "label": "Large",
+        "stock": 2
+      },
+      {
+        "id": "p020-v4",
+        "label": "Standard",
+        "stock": 13
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p021",
+    "slug": "p021-lightweight-leather-belt",
+    "title": "Lightweight Leather Belt",
+    "description": "Lightweight Leather Belt designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 77,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p021-lightweight-leather-belt-0.svg",
+      "/images/products/p021-lightweight-leather-belt-1.svg",
+      "/images/products/p021-lightweight-leather-belt-2.svg"
+    ],
+    "rating": 4.3,
+    "reviewCount": 122,
+    "stock": 65,
+    "variants": [
+      {
+        "id": "p021-v1",
+        "label": "Standard",
+        "stock": 27
+      },
+      {
+        "id": "p021-v2",
+        "label": "Compact",
+        "stock": 38
+      }
+    ],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p022",
+    "slug": "p022-modern-travel-duffel",
+    "title": "Modern Travel Duffel",
+    "description": "Modern Travel Duffel designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 114,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p022-modern-travel-duffel-0.svg",
+      "/images/products/p022-modern-travel-duffel-1.svg",
+      "/images/products/p022-modern-travel-duffel-2.svg"
+    ],
+    "rating": 3.6,
+    "reviewCount": 139,
+    "stock": 55,
+    "variants": [
+      {
+        "id": "p022-v1",
+        "label": "Standard",
+        "stock": 34
+      },
+      {
+        "id": "p022-v2",
+        "label": "Compact",
+        "stock": 5
+      },
+      {
+        "id": "p022-v3",
+        "label": "Large",
+        "stock": 16
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p023",
+    "slug": "p023-all-weather-crossbody-bag",
+    "title": "All-Weather Crossbody Bag",
+    "description": "All-Weather Crossbody Bag designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 151,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p023-all-weather-crossbody-bag-0.svg",
+      "/images/products/p023-all-weather-crossbody-bag-1.svg",
+      "/images/products/p023-all-weather-crossbody-bag-2.svg"
+    ],
+    "rating": 4.9,
+    "reviewCount": 156,
+    "stock": 70,
+    "variants": [
+      {
+        "id": "p023-v1",
+        "label": "Standard",
+        "stock": 1
+      },
+      {
+        "id": "p023-v2",
+        "label": "Compact",
+        "stock": 12
+      },
+      {
+        "id": "p023-v3",
+        "label": "Large",
+        "stock": 23
+      },
+      {
+        "id": "p023-v4",
+        "label": "Standard",
+        "stock": 34
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p024",
+    "slug": "p024-pro-silk-scarf",
+    "title": "Pro Silk Scarf",
+    "description": "Pro Silk Scarf designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our accessories lineup.",
+    "price": 188,
+    "currency": "USD",
+    "category": "Accessories",
+    "tags": [
+      "accessories",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p024-pro-silk-scarf-0.svg",
+      "/images/products/p024-pro-silk-scarf-1.svg",
+      "/images/products/p024-pro-silk-scarf-2.svg"
+    ],
+    "rating": 4.2,
+    "reviewCount": 173,
+    "stock": 27,
+    "variants": [
+      {
+        "id": "p024-v1",
+        "label": "Standard",
+        "stock": 8
+      },
+      {
+        "id": "p024-v2",
+        "label": "Compact",
+        "stock": 19
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p025",
+    "slug": "p025-lightweight-wireless-earbuds",
+    "title": "Lightweight Wireless Earbuds",
+    "description": "Lightweight Wireless Earbuds designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 45,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p025-lightweight-wireless-earbuds-0.svg",
+      "/images/products/p025-lightweight-wireless-earbuds-1.svg",
+      "/images/products/p025-lightweight-wireless-earbuds-2.svg"
+    ],
+    "rating": 3.5,
+    "reviewCount": 190,
+    "stock": 78,
+    "variants": [
+      {
+        "id": "p025-v1",
+        "label": "Standard",
+        "stock": 15
+      },
+      {
+        "id": "p025-v2",
+        "label": "Compact",
+        "stock": 26
+      },
+      {
+        "id": "p025-v3",
+        "label": "Large",
+        "stock": 37
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p026",
+    "slug": "p026-modern-smart-watch",
+    "title": "Modern Smart Watch",
+    "description": "Modern Smart Watch designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 82,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p026-modern-smart-watch-0.svg",
+      "/images/products/p026-modern-smart-watch-1.svg",
+      "/images/products/p026-modern-smart-watch-2.svg"
+    ],
+    "rating": 4.8,
+    "reviewCount": 207,
+    "stock": 74,
+    "variants": [
+      {
+        "id": "p026-v1",
+        "label": "Standard",
+        "stock": 22
+      },
+      {
+        "id": "p026-v2",
+        "label": "Compact",
+        "stock": 33
+      },
+      {
+        "id": "p026-v3",
+        "label": "Large",
+        "stock": 4
+      },
+      {
+        "id": "p026-v4",
+        "label": "Standard",
+        "stock": 15
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p027",
+    "slug": "p027-all-weather-bluetooth-speaker",
+    "title": "All-Weather Bluetooth Speaker",
+    "description": "All-Weather Bluetooth Speaker designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 119,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p027-all-weather-bluetooth-speaker-0.svg",
+      "/images/products/p027-all-weather-bluetooth-speaker-1.svg",
+      "/images/products/p027-all-weather-bluetooth-speaker-2.svg"
+    ],
+    "rating": 4.1,
+    "reviewCount": 224,
+    "stock": 29,
+    "variants": [
+      {
+        "id": "p027-v1",
+        "label": "Standard",
+        "stock": 29
+      },
+      {
+        "id": "p027-v2",
+        "label": "Compact",
+        "stock": 0
+      }
+    ],
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p028",
+    "slug": "p028-pro-noise-cancel-headphones",
+    "title": "Pro Noise-Cancel Headphones",
+    "description": "Pro Noise-Cancel Headphones designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 156,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p028-pro-noise-cancel-headphones-0.svg",
+      "/images/products/p028-pro-noise-cancel-headphones-1.svg",
+      "/images/products/p028-pro-noise-cancel-headphones-2.svg"
+    ],
+    "rating": 3.4,
+    "reviewCount": 241,
+    "stock": 61,
+    "variants": [
+      {
+        "id": "p028-v1",
+        "label": "Standard",
+        "stock": 36
+      },
+      {
+        "id": "p028-v2",
+        "label": "Compact",
+        "stock": 7
+      },
+      {
+        "id": "p028-v3",
+        "label": "Large",
+        "stock": 18
+      }
+    ],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p029",
+    "slug": "p029-everyday-fitness-tracker",
+    "title": "Everyday Fitness Tracker",
+    "description": "Everyday Fitness Tracker designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 193,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p029-everyday-fitness-tracker-0.svg",
+      "/images/products/p029-everyday-fitness-tracker-1.svg",
+      "/images/products/p029-everyday-fitness-tracker-2.svg"
+    ],
+    "rating": 4.7,
+    "reviewCount": 18,
+    "stock": 78,
+    "variants": [
+      {
+        "id": "p029-v1",
+        "label": "Standard",
+        "stock": 3
+      },
+      {
+        "id": "p029-v2",
+        "label": "Compact",
+        "stock": 14
+      },
+      {
+        "id": "p029-v3",
+        "label": "Large",
+        "stock": 25
+      },
+      {
+        "id": "p029-v4",
+        "label": "Standard",
+        "stock": 36
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p030",
+    "slug": "p030-lightweight-portable-charger",
+    "title": "Lightweight Portable Charger",
+    "description": "Lightweight Portable Charger designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 50,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p030-lightweight-portable-charger-0.svg",
+      "/images/products/p030-lightweight-portable-charger-1.svg",
+      "/images/products/p030-lightweight-portable-charger-2.svg"
+    ],
+    "rating": 4,
+    "reviewCount": 35,
+    "stock": 31,
+    "variants": [
+      {
+        "id": "p030-v1",
+        "label": "Standard",
+        "stock": 10
+      },
+      {
+        "id": "p030-v2",
+        "label": "Compact",
+        "stock": 21
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p031",
+    "slug": "p031-modern-mechanical-keyboard",
+    "title": "Modern Mechanical Keyboard",
+    "description": "Modern Mechanical Keyboard designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 87,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p031-modern-mechanical-keyboard-0.svg",
+      "/images/products/p031-modern-mechanical-keyboard-1.svg",
+      "/images/products/p031-modern-mechanical-keyboard-2.svg"
+    ],
+    "rating": 3.3,
+    "reviewCount": 52,
+    "stock": 84,
+    "variants": [
+      {
+        "id": "p031-v1",
+        "label": "Standard",
+        "stock": 17
+      },
+      {
+        "id": "p031-v2",
+        "label": "Compact",
+        "stock": 28
+      },
+      {
+        "id": "p031-v3",
+        "label": "Large",
+        "stock": 39
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p032",
+    "slug": "p032-all-weather-webcam",
+    "title": "All-Weather Webcam",
+    "description": "All-Weather Webcam designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 124,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p032-all-weather-webcam-0.svg",
+      "/images/products/p032-all-weather-webcam-1.svg",
+      "/images/products/p032-all-weather-webcam-2.svg"
+    ],
+    "rating": 4.6,
+    "reviewCount": 69,
+    "stock": 82,
+    "variants": [
+      {
+        "id": "p032-v1",
+        "label": "Standard",
+        "stock": 24
+      },
+      {
+        "id": "p032-v2",
+        "label": "Compact",
+        "stock": 35
+      },
+      {
+        "id": "p032-v3",
+        "label": "Large",
+        "stock": 6
+      },
+      {
+        "id": "p032-v4",
+        "label": "Standard",
+        "stock": 17
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p033",
+    "slug": "p033-pro-usb-c-hub",
+    "title": "Pro USB-C Hub",
+    "description": "Pro USB-C Hub designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 161,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p033-pro-usb-c-hub-0.svg",
+      "/images/products/p033-pro-usb-c-hub-1.svg",
+      "/images/products/p033-pro-usb-c-hub-2.svg"
+    ],
+    "rating": 3.9,
+    "reviewCount": 86,
+    "stock": 33,
+    "variants": [
+      {
+        "id": "p033-v1",
+        "label": "Standard",
+        "stock": 31
+      },
+      {
+        "id": "p033-v2",
+        "label": "Compact",
+        "stock": 2
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p034",
+    "slug": "p034-everyday-ring-light",
+    "title": "Everyday Ring Light",
+    "description": "Everyday Ring Light designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our electronics lineup.",
+    "price": 198,
+    "currency": "USD",
+    "category": "Electronics",
+    "tags": [
+      "electronics",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p034-everyday-ring-light-0.svg",
+      "/images/products/p034-everyday-ring-light-1.svg",
+      "/images/products/p034-everyday-ring-light-2.svg"
+    ],
+    "rating": 3.2,
+    "reviewCount": 103,
+    "stock": 67,
+    "variants": [
+      {
+        "id": "p034-v1",
+        "label": "Standard",
+        "stock": 38
+      },
+      {
+        "id": "p034-v2",
+        "label": "Compact",
+        "stock": 9
+      },
+      {
+        "id": "p034-v3",
+        "label": "Large",
+        "stock": 20
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p035",
+    "slug": "p035-lightweight-ceramic-mug-set",
+    "title": "Lightweight Ceramic Mug Set",
+    "description": "Lightweight Ceramic Mug Set designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 55,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p035-lightweight-ceramic-mug-set-0.svg",
+      "/images/products/p035-lightweight-ceramic-mug-set-1.svg",
+      "/images/products/p035-lightweight-ceramic-mug-set-2.svg"
+    ],
+    "rating": 4.5,
+    "reviewCount": 120,
+    "stock": 86,
+    "variants": [
+      {
+        "id": "p035-v1",
+        "label": "Standard",
+        "stock": 5
+      },
+      {
+        "id": "p035-v2",
+        "label": "Compact",
+        "stock": 16
+      },
+      {
+        "id": "p035-v3",
+        "label": "Large",
+        "stock": 27
+      },
+      {
+        "id": "p035-v4",
+        "label": "Standard",
+        "stock": 38
+      }
+    ],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p036",
+    "slug": "p036-modern-linen-throw-pillow",
+    "title": "Modern Linen Throw Pillow",
+    "description": "Modern Linen Throw Pillow designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 92,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p036-modern-linen-throw-pillow-0.svg",
+      "/images/products/p036-modern-linen-throw-pillow-1.svg",
+      "/images/products/p036-modern-linen-throw-pillow-2.svg"
+    ],
+    "rating": 3.8,
+    "reviewCount": 137,
+    "stock": 35,
+    "variants": [
+      {
+        "id": "p036-v1",
+        "label": "Standard",
+        "stock": 12
+      },
+      {
+        "id": "p036-v2",
+        "label": "Compact",
+        "stock": 23
+      }
+    ],
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p037",
+    "slug": "p037-all-weather-cast-iron-skillet",
+    "title": "All-Weather Cast Iron Skillet",
+    "description": "All-Weather Cast Iron Skillet designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 129,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p037-all-weather-cast-iron-skillet-0.svg",
+      "/images/products/p037-all-weather-cast-iron-skillet-1.svg",
+      "/images/products/p037-all-weather-cast-iron-skillet-2.svg"
+    ],
+    "rating": 3.1,
+    "reviewCount": 154,
+    "stock": 50,
+    "variants": [
+      {
+        "id": "p037-v1",
+        "label": "Standard",
+        "stock": 19
+      },
+      {
+        "id": "p037-v2",
+        "label": "Compact",
+        "stock": 30
+      },
+      {
+        "id": "p037-v3",
+        "label": "Large",
+        "stock": 1
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p038",
+    "slug": "p038-pro-scented-candle",
+    "title": "Pro Scented Candle",
+    "description": "Pro Scented Candle designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 166,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p038-pro-scented-candle-0.svg",
+      "/images/products/p038-pro-scented-candle-1.svg",
+      "/images/products/p038-pro-scented-candle-2.svg"
+    ],
+    "rating": 4.4,
+    "reviewCount": 171,
+    "stock": 90,
+    "variants": [
+      {
+        "id": "p038-v1",
+        "label": "Standard",
+        "stock": 26
+      },
+      {
+        "id": "p038-v2",
+        "label": "Compact",
+        "stock": 37
+      },
+      {
+        "id": "p038-v3",
+        "label": "Large",
+        "stock": 8
+      },
+      {
+        "id": "p038-v4",
+        "label": "Standard",
+        "stock": 19
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p039",
+    "slug": "p039-everyday-wool-rug",
+    "title": "Everyday Wool Rug",
+    "description": "Everyday Wool Rug designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 23,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p039-everyday-wool-rug-0.svg",
+      "/images/products/p039-everyday-wool-rug-1.svg",
+      "/images/products/p039-everyday-wool-rug-2.svg"
+    ],
+    "rating": 3.7,
+    "reviewCount": 188,
+    "stock": 37,
+    "variants": [
+      {
+        "id": "p039-v1",
+        "label": "Standard",
+        "stock": 33
+      },
+      {
+        "id": "p039-v2",
+        "label": "Compact",
+        "stock": 4
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p040",
+    "slug": "p040-lightweight-glass-carafe",
+    "title": "Lightweight Glass Carafe",
+    "description": "Lightweight Glass Carafe designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 60,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p040-lightweight-glass-carafe-0.svg",
+      "/images/products/p040-lightweight-glass-carafe-1.svg",
+      "/images/products/p040-lightweight-glass-carafe-2.svg"
+    ],
+    "rating": 3,
+    "reviewCount": 205,
+    "stock": 33,
+    "variants": [
+      {
+        "id": "p040-v1",
+        "label": "Standard",
+        "stock": 0
+      },
+      {
+        "id": "p040-v2",
+        "label": "Compact",
+        "stock": 11
+      },
+      {
+        "id": "p040-v3",
+        "label": "Large",
+        "stock": 22
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p041",
+    "slug": "p041-modern-bamboo-cutting-board",
+    "title": "Modern Bamboo Cutting Board",
+    "description": "Modern Bamboo Cutting Board designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 97,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p041-modern-bamboo-cutting-board-0.svg",
+      "/images/products/p041-modern-bamboo-cutting-board-1.svg",
+      "/images/products/p041-modern-bamboo-cutting-board-2.svg"
+    ],
+    "rating": 4.3,
+    "reviewCount": 222,
+    "stock": 54,
+    "variants": [
+      {
+        "id": "p041-v1",
+        "label": "Standard",
+        "stock": 7
+      },
+      {
+        "id": "p041-v2",
+        "label": "Compact",
+        "stock": 18
+      },
+      {
+        "id": "p041-v3",
+        "label": "Large",
+        "stock": 29
+      },
+      {
+        "id": "p041-v4",
+        "label": "Standard",
+        "stock": 0
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p042",
+    "slug": "p042-all-weather-table-lamp",
+    "title": "All-Weather Table Lamp",
+    "description": "All-Weather Table Lamp designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 134,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p042-all-weather-table-lamp-0.svg",
+      "/images/products/p042-all-weather-table-lamp-1.svg",
+      "/images/products/p042-all-weather-table-lamp-2.svg"
+    ],
+    "rating": 3.6,
+    "reviewCount": 239,
+    "stock": 39,
+    "variants": [
+      {
+        "id": "p042-v1",
+        "label": "Standard",
+        "stock": 14
+      },
+      {
+        "id": "p042-v2",
+        "label": "Compact",
+        "stock": 25
+      }
+    ],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p043",
+    "slug": "p043-pro-wall-clock",
+    "title": "Pro Wall Clock",
+    "description": "Pro Wall Clock designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 171,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p043-pro-wall-clock-0.svg",
+      "/images/products/p043-pro-wall-clock-1.svg",
+      "/images/products/p043-pro-wall-clock-2.svg"
+    ],
+    "rating": 4.9,
+    "reviewCount": 16,
+    "stock": 56,
+    "variants": [
+      {
+        "id": "p043-v1",
+        "label": "Standard",
+        "stock": 21
+      },
+      {
+        "id": "p043-v2",
+        "label": "Compact",
+        "stock": 32
+      },
+      {
+        "id": "p043-v3",
+        "label": "Large",
+        "stock": 3
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p044",
+    "slug": "p044-everyday-storage-basket",
+    "title": "Everyday Storage Basket",
+    "description": "Everyday Storage Basket designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our home lineup.",
+    "price": 28,
+    "currency": "USD",
+    "category": "Home",
+    "tags": [
+      "home",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p044-everyday-storage-basket-0.svg",
+      "/images/products/p044-everyday-storage-basket-1.svg",
+      "/images/products/p044-everyday-storage-basket-2.svg"
+    ],
+    "rating": 4.2,
+    "reviewCount": 33,
+    "stock": 98,
+    "variants": [
+      {
+        "id": "p044-v1",
+        "label": "Standard",
+        "stock": 28
+      },
+      {
+        "id": "p044-v2",
+        "label": "Compact",
+        "stock": 39
+      },
+      {
+        "id": "p044-v3",
+        "label": "Large",
+        "stock": 10
+      },
+      {
+        "id": "p044-v4",
+        "label": "Standard",
+        "stock": 21
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p045",
+    "slug": "p045-lightweight-camping-tent",
+    "title": "Lightweight Camping Tent",
+    "description": "Lightweight Camping Tent designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 65,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p045-lightweight-camping-tent-0.svg",
+      "/images/products/p045-lightweight-camping-tent-1.svg",
+      "/images/products/p045-lightweight-camping-tent-2.svg"
+    ],
+    "rating": 3.5,
+    "reviewCount": 50,
+    "stock": 41,
+    "variants": [
+      {
+        "id": "p045-v1",
+        "label": "Standard",
+        "stock": 35
+      },
+      {
+        "id": "p045-v2",
+        "label": "Compact",
+        "stock": 6
+      }
+    ],
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p046",
+    "slug": "p046-modern-insulated-cooler",
+    "title": "Modern Insulated Cooler",
+    "description": "Modern Insulated Cooler designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 102,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p046-modern-insulated-cooler-0.svg",
+      "/images/products/p046-modern-insulated-cooler-1.svg",
+      "/images/products/p046-modern-insulated-cooler-2.svg"
+    ],
+    "rating": 4.8,
+    "reviewCount": 67,
+    "stock": 39,
+    "variants": [
+      {
+        "id": "p046-v1",
+        "label": "Standard",
+        "stock": 2
+      },
+      {
+        "id": "p046-v2",
+        "label": "Compact",
+        "stock": 13
+      },
+      {
+        "id": "p046-v3",
+        "label": "Large",
+        "stock": 24
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p047",
+    "slug": "p047-all-weather-hiking-backpack",
+    "title": "All-Weather Hiking Backpack",
+    "description": "All-Weather Hiking Backpack designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 139,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p047-all-weather-hiking-backpack-0.svg",
+      "/images/products/p047-all-weather-hiking-backpack-1.svg",
+      "/images/products/p047-all-weather-hiking-backpack-2.svg"
+    ],
+    "rating": 4.1,
+    "reviewCount": 84,
+    "stock": 62,
+    "variants": [
+      {
+        "id": "p047-v1",
+        "label": "Standard",
+        "stock": 9
+      },
+      {
+        "id": "p047-v2",
+        "label": "Compact",
+        "stock": 20
+      },
+      {
+        "id": "p047-v3",
+        "label": "Large",
+        "stock": 31
+      },
+      {
+        "id": "p047-v4",
+        "label": "Standard",
+        "stock": 2
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p048",
+    "slug": "p048-pro-sleeping-bag",
+    "title": "Pro Sleeping Bag",
+    "description": "Pro Sleeping Bag designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 176,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "pro"
+    ],
+    "images": [
+      "/images/products/p048-pro-sleeping-bag-0.svg",
+      "/images/products/p048-pro-sleeping-bag-1.svg",
+      "/images/products/p048-pro-sleeping-bag-2.svg"
+    ],
+    "rating": 3.4,
+    "reviewCount": 101,
+    "stock": 43,
+    "variants": [
+      {
+        "id": "p048-v1",
+        "label": "Standard",
+        "stock": 16
+      },
+      {
+        "id": "p048-v2",
+        "label": "Compact",
+        "stock": 27
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p049",
+    "slug": "p049-everyday-trekking-poles",
+    "title": "Everyday Trekking Poles",
+    "description": "Everyday Trekking Poles designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 33,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "everyday"
+    ],
+    "images": [
+      "/images/products/p049-everyday-trekking-poles-0.svg",
+      "/images/products/p049-everyday-trekking-poles-1.svg",
+      "/images/products/p049-everyday-trekking-poles-2.svg"
+    ],
+    "rating": 4.7,
+    "reviewCount": 118,
+    "stock": 62,
+    "variants": [
+      {
+        "id": "p049-v1",
+        "label": "Standard",
+        "stock": 23
+      },
+      {
+        "id": "p049-v2",
+        "label": "Compact",
+        "stock": 34
+      },
+      {
+        "id": "p049-v3",
+        "label": "Large",
+        "stock": 5
+      }
+    ],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p050",
+    "slug": "p050-lightweight-water-filter-bottle",
+    "title": "Lightweight Water Filter Bottle",
+    "description": "Lightweight Water Filter Bottle designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 70,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "lightweight"
+    ],
+    "images": [
+      "/images/products/p050-lightweight-water-filter-bottle-0.svg",
+      "/images/products/p050-lightweight-water-filter-bottle-1.svg",
+      "/images/products/p050-lightweight-water-filter-bottle-2.svg"
+    ],
+    "rating": 4,
+    "reviewCount": 135,
+    "stock": 66,
+    "variants": [
+      {
+        "id": "p050-v1",
+        "label": "Standard",
+        "stock": 30
+      },
+      {
+        "id": "p050-v2",
+        "label": "Compact",
+        "stock": 1
+      },
+      {
+        "id": "p050-v3",
+        "label": "Large",
+        "stock": 12
+      },
+      {
+        "id": "p050-v4",
+        "label": "Standard",
+        "stock": 23
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p051",
+    "slug": "p051-modern-camp-chair",
+    "title": "Modern Camp Chair",
+    "description": "Modern Camp Chair designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 107,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "modern"
+    ],
+    "images": [
+      "/images/products/p051-modern-camp-chair-0.svg",
+      "/images/products/p051-modern-camp-chair-1.svg",
+      "/images/products/p051-modern-camp-chair-2.svg"
+    ],
+    "rating": 3.3,
+    "reviewCount": 152,
+    "stock": 45,
+    "variants": [
+      {
+        "id": "p051-v1",
+        "label": "Standard",
+        "stock": 37
+      },
+      {
+        "id": "p051-v2",
+        "label": "Compact",
+        "stock": 8
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p052",
+    "slug": "p052-all-weather-headlamp",
+    "title": "All-Weather Headlamp",
+    "description": "All-Weather Headlamp designed for everyday reliability. Built with durable materials and a comfortable, considered fit — a dependable pick in our outdoor lineup.",
+    "price": 144,
+    "currency": "USD",
+    "category": "Outdoor",
+    "tags": [
+      "outdoor",
+      "all-weather"
+    ],
+    "images": [
+      "/images/products/p052-all-weather-headlamp-0.svg",
+      "/images/products/p052-all-weather-headlamp-1.svg",
+      "/images/products/p052-all-weather-headlamp-2.svg"
+    ],
+    "rating": 4.6,
+    "reviewCount": 169,
+    "stock": 45,
+    "variants": [
+      {
+        "id": "p052-v1",
+        "label": "Standard",
+        "stock": 4
+      },
+      {
+        "id": "p052-v2",
+        "label": "Compact",
+        "stock": 15
+      },
+      {
+        "id": "p052-v3",
+        "label": "Large",
+        "stock": 26
+      }
+    ],
+    "isNew": false,
+    "isFeatured": false
+  }
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="All-Weather Headlamp">
+  <title>All-Weather Headlamp</title>
+  <defs>
+    <linearGradient id="g52-2" x1="0" y1="0" x2="1" y2="1" gradientTransform="rotate(90 0.5 0.5)">
+      <stop offset="0%" stop-color="#0891b2" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g52-2)" />
+  <circle cx="180" cy="170" r="150" fill="rgba(255,255,255,0.07)" />
+  <ellipse cx="300" cy="470" rx="190" ry="16" fill="rgba(0,0,0,0.25)" />
+  <g transform="translate(300 300) rotate(6) scale(.92) translate(-300 -300)">
+    <path d="M300 186 466 432H134z" fill="#ffffff" fill-opacity=".94"/>
+    <path d="M300 300l62 132H238z" fill="#111827"/>
+    <path d="M106 432h388" stroke="#ffffff" stroke-opacity=".6" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

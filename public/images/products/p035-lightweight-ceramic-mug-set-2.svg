@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Lightweight Ceramic Mug Set">
+  <title>Lightweight Ceramic Mug Set</title>
+  <defs>
+    <linearGradient id="g35-2" x1="0" y1="0" x2="1" y2="1" gradientTransform="rotate(90 0.5 0.5)">
+      <stop offset="0%" stop-color="#d97706" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g35-2)" />
+  <circle cx="258" cy="183" r="163" fill="rgba(255,255,255,0.07)" />
+  <ellipse cx="300" cy="470" rx="190" ry="16" fill="rgba(0,0,0,0.25)" />
+  <g transform="translate(300 300) rotate(6) scale(.92) translate(-300 -300)">
+    <path d="M210 250h180v150a40 40 0 0 1-40 40H250a40 40 0 0 1-40-40z" fill="#ffffff" fill-opacity=".94"/>
+    <path d="M390 290h18a42 42 0 0 1 0 90h-18" stroke="#ffffff" stroke-width="18" fill="none"/>
+    <rect x="210" y="318" width="180" height="22" fill="#111827"/>
+    <g stroke="#ffffff" stroke-opacity=".6" stroke-width="8" fill="none" stroke-linecap="round"><path d="M262 214c-12-18 12-30 0-52"/><path d="M308 214c-12-18 12-30 0-52"/><path d="M354 214c-12-18 12-30 0-52"/></g>
+  </g>
+</svg>
